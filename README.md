@@ -2,7 +2,7 @@
 This a face detection and recolonization algorithm API using Flask
 
 
-> Written with [StackEdit](https://stackedit.io/).
+
 > - Install [python]([https://www.python.org/downloads/](https://www.python.org/downloads/)) 3.7
 > - Install pip
 > - Create a virtual enviroment 
